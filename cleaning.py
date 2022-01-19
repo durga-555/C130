@@ -1,6 +1,5 @@
 import csv
 import pandas as pd
-import time
 
 df=pd.read_csv("dwarf_stars.csv")
 print(df.shape)
